@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e92dda93.css",
+    "main.js": "/static/js/main.e50cdba7.js",
+    "static/js/453.c9984390.chunk.js": "/static/js/453.c9984390.chunk.js",
+    "static/media/vpn.png": "/static/media/vpn.e05f7daf7b2aada9bc3d.png",
+    "static/media/ecom.jpg": "/static/media/ecom.cb1b695843c12d7e566c.jpg",
+    "index.html": "/index.html",
+    "main.e92dda93.css.map": "/static/css/main.e92dda93.css.map",
+    "main.e50cdba7.js.map": "/static/js/main.e50cdba7.js.map",
+    "453.c9984390.chunk.js.map": "/static/js/453.c9984390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e92dda93.css",
+    "static/js/main.e50cdba7.js"
+  ]
+}
