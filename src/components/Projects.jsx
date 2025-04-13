@@ -1,14 +1,14 @@
 
 import React from "react";
-import vpn from '../assets/Covidtracker.png'
-import ecom from '../assets/glamkart_homepage.png'
+import covid from '../assets/Covidtracker.png'
+import ecom from '../assets/glamkart_homepage.jpeg'
 import Footer from './Footer'
 
 const ProjectCard = ({ image, title, description, git, technologies }) => {
     return (
         <div className="max-w-sm sm:max-w-sm md:max-w-sm bg-gray-900 border border-neutral-100 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-            {title=='Snap Shot' && <a href="#">
-                <img className="w-full rounded-t-lg h-auto object-cover " src={vpn} alt="" />
+            {title=='Covid-19 Tracker' && <a href="#">
+                <img className="w-full rounded-t-lg h-auto object-cover " src={covid} alt="" />
             </a>}
             {title=='GlamKart' && <a href="#">
                 <img className="w-full rounded-t-lg h-auto object-cover " src={ecom} alt="" />
@@ -67,11 +67,11 @@ export const project = [
         technologies:['Golang' ,'ReactJS' , 'Postgres']
     },
     {
-        title:'Covid-19 Tracker cum Online Consultation System',
-        description:'Covid-19 Tracker cum Online Consultation System is a fully responsive web app which displays the current covid-19 cases with the help of charts and graphs in three categories namely Confirmed, Recovered and Deceased Cases. The user can select the country and the date range in which he/she wants to see the cases. The web app also features an Online Consultation System to schedule meetings between doctors and patients',
-        image: {vpn},
+        title:'Covid-19 Tracker',
+        description:'Covid-19 Tracker cum Online Consultation System is a fully responsive web app which displays the current covid-19 cases with the help of charts and graphs in three categories namely Confirmed, Recovered and Deceased Cases. The web app also features an Online Consultation System to schedule meetings between doctors and patients',
+        image: {covid},
         git:"https://github.com/GambhirPalak27/Covid-19-Tracker",
-        technologies:[ 'React JS', 'tailwind CSS']
+        technologies:[ 'React JS', 'Firebase']
     }
 ]
 
