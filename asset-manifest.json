@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e92dda93.css",
-    "main.js": "/static/js/main.e50cdba7.js",
+    "main.js": "/static/js/main.3d223a52.js",
     "static/js/453.c9984390.chunk.js": "/static/js/453.c9984390.chunk.js",
-    "static/media/vpn.png": "/static/media/vpn.e05f7daf7b2aada9bc3d.png",
-    "static/media/ecom.jpg": "/static/media/ecom.cb1b695843c12d7e566c.jpg",
+    "static/media/Covidtracker.png": "/static/media/Covidtracker.fbd3e796b066a7268f6c.png",
+    "static/media/glamkart_homepage.jpeg": "/static/media/glamkart_homepage.92c9a8c608f416c30059.jpeg",
     "index.html": "/index.html",
     "main.e92dda93.css.map": "/static/css/main.e92dda93.css.map",
-    "main.e50cdba7.js.map": "/static/js/main.e50cdba7.js.map",
+    "main.3d223a52.js.map": "/static/js/main.3d223a52.js.map",
     "453.c9984390.chunk.js.map": "/static/js/453.c9984390.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e92dda93.css",
-    "static/js/main.e50cdba7.js"
+    "static/js/main.3d223a52.js"
   ]
 }
