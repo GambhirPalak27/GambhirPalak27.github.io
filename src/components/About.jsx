@@ -39,7 +39,7 @@ const About = () => {
               Outside of work, I’m a nature-loving shutterbug 📸 with a passion for photography. Exploring new places 🗺️, trying local foods 🍜, and immersing myself in different cultures are a few of the things that bring me joy. Music and dance also play a big part in how I recharge and stay inspired.</p>
 
             <ButtonLink
-              url='https://drive.google.com/file/d/1YkpBwB_XRltDQnjn16QCyiXeGZvq20xZ/view?usp=drive_link'
+              url='https://drive.google.com/file/d/1M5aLO5h1Z0XP1BEl6GT62zJ8rSBJvZ_L/view?usp=sharing'
               text='View Resume →'
               padding={`p-3`}
             />

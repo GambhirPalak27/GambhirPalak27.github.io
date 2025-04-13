@@ -1,7 +1,7 @@
 
 import React from "react";
-import vpn from '../assets/vpn.png'
-import ecom from '../assets/ecom.jpg'
+import vpn from '../assets/Covidtracker.png'
+import ecom from '../assets/glamkart_homepage.png'
 import Footer from './Footer'
 
 const ProjectCard = ({ image, title, description, git, technologies }) => {
@@ -67,10 +67,10 @@ export const project = [
         technologies:['Golang' ,'ReactJS' , 'Postgres']
     },
     {
-        title:'Snap Shot',
-        description:'SnapShot is a stunning portfolio that was exclusively designed using React JS and tailwind CSS.This Project serves as a representation of a photographer’s work, highlighting their portfolio and services.',
+        title:'Covid-19 Tracker cum Online Consultation System',
+        description:'Covid-19 Tracker cum Online Consultation System is a fully responsive web app which displays the current covid-19 cases with the help of charts and graphs in three categories namely Confirmed, Recovered and Deceased Cases. The user can select the country and the date range in which he/she wants to see the cases. The web app also features an Online Consultation System to schedule meetings between doctors and patients',
         image: {vpn},
-        git:"https://github.com/nithingooud/vpn_studios",
+        git:"https://github.com/GambhirPalak27/Covid-19-Tracker",
         technologies:[ 'React JS', 'tailwind CSS']
     }
 ]
